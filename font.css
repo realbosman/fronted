@@ -1,0 +1,183 @@
+.main
+{
+    /* border: brown solid 4px; */
+}
+.fast-div
+{
+/* border:rgb(206, 10, 10) solid 4px; */
+background-color: rgb(102, 7, 7);
+width: 100%;
+height: 100px;
+}
+.second-div{
+
+    /* border: violet solid 20px; */
+    background-color: rgb(175, 44, 4);
+    width: 100%;
+    height: 20px;
+}
+.third-div{
+
+    /* border: yellow solid 4px; */
+    background-color: rgb(41, 37, 37);
+    width: 100%;
+    height: 500px;
+}
+.post{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+.forth-div{
+    background-color:black;
+    width: 100%;
+height: 300px;
+}
+.li
+{
+position: absolute;
+right: 80%;
+}
+
+
+.level
+{
+display: flex;
+justify-content:right;
+list-style-type: none;
+/* background-color: rgba(78, 4, 4, 0.89); */
+color: rgb(21, 22, 22);
+padding: 20px;
+align-items: center;
+}
+.level li {
+    padding-right: 20px;
+}
+.level a{
+    color: rgb(250, 244, 244);
+    text-decoration: none;
+}
+.level a:hover{
+    color: rgb(247, 246, 242);
+    font-size: large;
+}
+.sign
+{
+    color: white;
+    font-family:Baskerville Old Face;
+    font-size: 40px;
+    position: absolute;
+    left: 3%;
+    top: 6px;
+    
+    
+}
+.sit{
+    font-family:Brush Script MT;
+    color: rgb(247, 43, 43);
+    font-size: 80px;
+    position: absolute;
+    left: 16%;
+    top: -10%;
+}
+.good{
+    color: white;
+    background-color:rgb(241, 43, 8);
+    width: 100px;
+    height: 50px;
+border-radius: 30px;
+}
+#logo{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+}
+#set{
+    vertical-align: middle;
+}
+.bat{
+    color: white;
+    background-color: rgb(228, 15, 15);
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+}
+.pass{
+list-style-type: none;
+color: rgb(235, 31, 16);
+padding: 20px;
+text-decoration: red underline;
+}
+.pass a{
+    color: rgb(194, 32, 3);
+}
+.pass a:hover{
+    color: white;
+    font-size: medium;
+} 
+p{
+    color: white; 
+}
+#me{
+    color: white;
+}
+.save{
+    color: white;
+    font-family:Baskerville Old Face;
+    font-size: 40px;
+    position: absolute;
+    top: 650px;
+    left: 3%;
+}
+.sale{
+    font-family:Brush Script MT;
+    color: rgb(247, 43, 43);
+    font-size: 80px;
+    position: absolute; 
+    top: 88%;
+    left: 16%;
+}
+.levels
+{
+display: flex;
+justify-content:right;
+list-style-type: none;
+color: rgb(21, 22, 22);
+padding: 20px;
+align-items: center;
+position: absolute;
+bottom: -14%;
+left: 40%;
+
+}
+.levels li {
+    padding-right: 20px;
+}
+.levels a{
+    color: rgb(250, 244, 244);
+    text-decoration: none;
+}
+.levels a:hover{
+    color: rgb(247, 246, 242);
+    font-size: large;
+}
+.image{
+    display: flex;
+    text-decoration: none;
+    padding: 20px;
+    position: absolute;
+    top: 800px;
+    list-style-type: none;
+}
+.image li{
+    padding: 10px;
+}
+#pic{
+    width: 50px;
+    height: 50px;
+}
+#point{
+    position: absolute;
+    top: 800px;
+    left: 75%;
+}
